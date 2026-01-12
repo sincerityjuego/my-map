@@ -1,0 +1,13 @@
+interactive-ph-map/
+│
+├── index.html
+├── styles.css
+├── main.js
+├── data/
+│   ├── philippines.geojson
+│   └── locations.json
+│
+├── server/
+│   ├── server.js
+│   └── models/
+│       └── Place.js
